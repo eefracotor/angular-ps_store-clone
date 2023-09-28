@@ -1,5 +1,22 @@
 .info-card__container {
-	width: 500px;
-	height: 350px;
-	background-color: black;
+	/* width: 40vw; */
+	height: auto;
+	/* padding: 25px; */
+	margin: auto;
+	/* margin-left: 150px;
+	margin-top: 175px; */
+
+	/* background-color: black; */
+	width: 45%;
+	padding:20px;
+	/* height: 50vh; */
+	margin: auto;
+	background-color: rgba(31,32,36,.97);
+}
+
+.info-card__container p {
+	font-family: Calibri;
+	font-size: 1rem;
+	line-height: 1.4rem;
+	margin-bottom: 15px;
 }
