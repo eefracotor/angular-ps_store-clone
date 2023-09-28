@@ -3,11 +3,28 @@
 	height: 350px;
 	background-color: rgba(31,32,36,.97);
 	padding: 25px;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
 
 }
 
 .game-title-card__container h3 {
-	/* text-align: justify; */
 	font-family: Calibri;
 	font-size: 2.75rem;
+}
+
+.game-title-card__container p {
+	font-size: 2rem;
+	font-family: Calibri;
+}
+
+.btn-add-to-car {
+	width: 80%;
+	height: 50px;
+	background-color: red;
+	border-radius: 25px;
+	color: #fff;
+	font-size: 1.25rem;
+	margin: 0 auto;
 }

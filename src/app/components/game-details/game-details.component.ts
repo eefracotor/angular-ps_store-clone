@@ -13,6 +13,8 @@ export class GameDetailsComponent implements OnInit{
 	infoCard:string =''
 	@Input()
 	photo:string =''
+	@Input()
+	price:string =''
 
 	constructor() { }
 	ngOnInit(): void {

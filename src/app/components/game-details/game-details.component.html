@@ -5,11 +5,13 @@
 		</span>
 	</a>
 	<div class="game-details__img" style="background-image: url('{{ photo }}');">
-		<!-- <img src="{{ photo }}" alt="{{ nameGame }}"> -->
-		<!-- <img src="https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/D8Gbgtnu0ZvmVs8VloyLb0Sm9tW0wpKh.png?w=780&thumb=false" alt="" srcset=""> -->
+
 	</div>
 	<div class="game-cards__container">
-		<app-game-title-card nameGame="{{ nameGame }}"></app-game-title-card>
+		<app-game-title-card
+			nameGame="{{ nameGame }}"
+			price="{{ price }}"
+		></app-game-title-card>
 	</div>
 </div>
 <div class="info-game___details">

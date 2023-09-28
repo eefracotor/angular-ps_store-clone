@@ -9,6 +9,8 @@ export class GameTitleCardComponent implements OnInit {
 
 	@Input()
 	nameGame:string = ''
+	@Input()
+	price:string =''
 
 	constructor() { }
 	ngOnInit(): void {

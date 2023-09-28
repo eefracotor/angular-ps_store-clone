@@ -1,15 +1,8 @@
 .info-card__container {
-	/* width: 40vw; */
 	height: auto;
-	/* padding: 25px; */
 	margin: auto;
-	/* margin-left: 150px;
-	margin-top: 175px; */
-
-	/* background-color: black; */
 	width: 45%;
 	padding:20px;
-	/* height: 50vh; */
 	margin: auto;
 	background-color: rgba(31,32,36,.97);
 }

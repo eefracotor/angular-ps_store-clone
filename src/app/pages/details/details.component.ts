@@ -8,12 +8,10 @@ import { dataFake } from '../../data/dataFake'
   styleUrls: ['./details.component.css']
 })
 export class DetailsComponent implements OnInit {
-	// @Input()
 	nameGame:string =''
-	// @Input()
 	infoCard:string =''
-	// @Input()
 	photo:string =''
+	price:string =''
 	private id:string | null = '0'
 
 	constructor(
@@ -31,6 +29,7 @@ export class DetailsComponent implements OnInit {
 		this.nameGame = result.nameGame
 		this.infoCard = result.description
 		this.photo = result.potho
+		this.price =  result.price
 		// console.log(result.nameGame)
 	}
 }
