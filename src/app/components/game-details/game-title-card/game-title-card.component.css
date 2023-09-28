@@ -1,0 +1,13 @@
+.game-title-card__container {
+	width: 650px;
+	height: 350px;
+	background-color: rgba(31,32,36,.97);
+	padding: 25px;
+
+}
+
+.game-title-card__container h3 {
+	/* text-align: justify; */
+	font-family: Calibri;
+	font-size: 2.75rem;
+}

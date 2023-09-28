@@ -1,0 +1,11 @@
+<div class="game-details__container">
+	<a [routerLink]="['/']">Back!</a>
+	<div class="game-cards-container">
+		<app-game-title-card nameGame="{{ nameGame }}"></app-game-title-card>
+		<app-game-info-card infoCard="{{ infoCard }}"></app-game-info-card>
+	</div>
+	<div class="game-details__img">
+		<img src="{{ photo }}" alt="{{ nameGame }}">
+		<!-- <img src="https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/D8Gbgtnu0ZvmVs8VloyLb0Sm9tW0wpKh.png?w=780&thumb=false" alt="" srcset=""> -->
+	</div>
+</div>

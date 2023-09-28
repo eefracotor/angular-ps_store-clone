@@ -1,0 +1,80 @@
+export const dataFake =  [
+	{
+		"id": "1",
+		"nameGame": "Battlefield™ 2042 para PS4™",
+		"potho": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/0ca4a6fb1b87996a9f8b79fc16a8c99dcd24bcf5b99813e6.png?w=440&thumb=false",
+		"description": "Battlefield™ 2042 é um jogo de tiro em primeira pessoa que marca o retorno à emblemática guerra total da franquia. Com a ajuda de um arsenal de ponta, você poderá encarar batalhas multiplayer intensas e imersivas. Na Temporada 5, um novo amanhecer surge para os Sem Pátria. Siga para a República Tcheca, onde você terá a carinhosa recepção do cano de uma arma. Combata em uma fábrica abandonada recuperada pela natureza no novo mapa Retomada. Expanda seu arsenal com o fuzil por ferrolho XCE BAR, o fuzil de assalto GEW-46 e o poderoso canhão de mão BFP. 50. Quando reunir seu pelotão, carregue três novos tipos de granadas e mostre a seus inimigos que está com a faca nos dentes. Curta um monte de melhorias em Battlefield 2042, incluindo uma reformulação de equipamentos de veículo, novas estações de arma como tecnologias térmicas e antiaéreas pesadas, Armas do Cofre repaginadas e uma versão reformulada do mapa Ampulheta. Então não tenha piedade e jamais recue. Leve sua equipe à vitória em combates abertos ou confinados nos mapas do mundo de 2042 e de jogos clássicos de Battlefield. Descubra seu estilo de jogo na jogabilidade de Classes e encare várias experiências com versões mais sofisticadas de Conquista e Ruptura. Explore o Battlefield Portal, uma plataforma onde quem joga poderá descobrir, criar e compartilhar batalhas inesperadas do passado e presente de Battlefield. Este jogo inclui compras opcionais de moeda virtual dentro do jogo, que pode ser usada para adquirir itens virtuais do jogo.",
+		"price": "298,90",
+		"platform": "PS4",
+		"launch": "19/11/2021",
+		"distributor": "Electronic Arts Inc",
+		"gender": "Tiro",
+		"details": "Para jogar esse jogo no PS5, talvez seja preciso atualizar seu sistema com o software do sistema mais recente. É possível jogar esse jogo no PS5, mas  alguns recursos disponíveis no PS4 podem estar ausentes. Consulte PlayStation.com/bc para obter mais detalhes. É preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). Software sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). A taxa única de licença dá o direito de jogar no sistema PS4™ principal designado e outros sistemas PS4™ quando está usando essa conta.",
+
+	},
+	{
+		"id": "2",
+		"nameGame": "Battlefield 4™ Premium Edition",
+		"potho": "https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/D8Gbgtnu0ZvmVs8VloyLb0Sm9tW0wpKh.png?w=780&thumb=false",
+		"description": "Jogue mais com Battlefield 4™ Premium Edition! Esta é a experiência definitiva de Battlefield 4 que oferece um modo multijogador entre equipes sem igual, ambientes destrutíveis dinâmicos e combate épico entre veículos. Battlefield 4 Premium Edition é a coleção definitiva de guerra, incluindo o jogo Battlefield 4 e a assinatura Prêmium de Battlefield 4, que dá acesso a cinco pacotes de expansão digitais com muito conteúdo novo para o multijogador, incluindo 20 novos mapas, novos modos de jogo e várias armas e veículos novos. A coleção adiciona ainda mais diversidade, participe de uma ação dramática anfíbia em Naval Strike, de batalhas nos mapas majestosos de China Rising, de um combate urbano de infantaria em Dragon’s Teeth e de uma guerra de alta tecnologia experimental na paisagem ártica de Final Stand. Além disso, jogue em quatro mapas de Battlefield 3 recriados em Second Assault.",
+		"price": "31,79",
+		"platform": "PS4",
+		"launch": "20/10/2014",
+		"distributor": "Electronic Arts Inc",
+		"gender": "Ação, Tiro, Tiro",
+		"details": "Para jogar esse jogo no PS5, talvez seja preciso atualizar seu sistema com o software do sistema mais recente. É possível jogar esse jogo no PS5, mas  alguns recursos disponíveis no PS4 podem estar ausentes. Consulte PlayStation.com/bc para obter mais detalhes. É preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). Software sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). A taxa única de licença dá o direito de jogar no sistema PS4™ principal designado e outros sistemas PS4™ quando está usando essa conta.",
+
+	},
+	{
+		"id": "3",
+		"nameGame": "Battlefield™ V Edição Definitiva",
+		"potho": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0813/TGIIghw30d2pJUuZDdKkni6O.png?w=440&thumb=false",
+		"description": "Essa é a experiência definitiva de Battlefield V. Escolha do arsenal completo de armas, veículos e dispositivos. Reviva as batalhas mais acirradas da Segunda Guerra Mundial. Não seja só mais um no campo de batalha com o elenco de Elites e o melhor conteúdo de personalização dos Anos 1 e 2. Battlefield™ V Edição Definitiva contém o jogo base Battlefield V e o conteúdo da coleção definitiva: - Todo o conteúdo de jogo (armas, veículos e dispositivos) do lançamento, Anos 1 e 2 - Todos os Elites - 84 variações de uniformes imersivas para os exércitos britânico e alemão para melhorar o mundo aberto da Segunda Guerra Mundial - 8 uniformes de soldado do Ano 2 - 2 texturas de arma do Ano 2, aplicáveis para 10 e 4 armas respectivamente - 3 complementos de veículo - 33 itens de Recompensa de Capítulo do Ano 1.",
+		"price": "248,90",
+		"platform": "PS4",
+		"launch": "22/10/2020",
+		"distributor": "Electronic Arts Inc",
+		"gender": "Tiro, Ação, Original",
+		"details": "Para jogar esse jogo no PS5, talvez seja preciso atualizar seu sistema com o software do sistema mais recente. É possível jogar esse jogo no PS5, mas  alguns recursos disponíveis no PS4 podem estar ausentes. Consulte PlayStation.com/bc para obter mais detalhes. É preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). Software sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). A taxa única de licença dá o direito de jogar no sistema PS4™ principal designado e outros sistemas PS4™ quando está usando essa conta.",
+
+	},
+	{
+		"id": "4",
+		"nameGame": "Genshin Impact: 3º Aniversário",
+		"potho": "https://image.api.playstation.com/pr/bam-art/164/146/4af6f4da-9fb5-4bfa-b4f2-51eba537e4cd.png?w=440&thumb=false",
+		"description": 'O vasto continente "Teyvat", onde incontáveis criaturas se reproduziram e se reuniram, contém todos os fenômenos do céu e da terra. Este é um mundo onde os sete deuses governam e se encontram. Sob o céu desconhecido, vocês são um par de gêmeos viajantes, vindos de um outro mundo. Separados por deuses estranhos, você foi selado e adormeceu. Ao acordar novamente, o cenário entre o céu e a terra mudou completamente... \n"Genshin Impact" é um novo RPG de aventura de mundo aberto, onde você irá explorar um mundo de fantasia chamado "Teyvat" no jogo. Neste vasto mundo, você pode viajar por sete nações, encontrar companheiros com diferentes personalidades e habilidades únicas, e lutar contra poderosos inimigos com eles e embarcar na estrada para reencontrar seus parentes de sangue. Você também pode vagar sem destino e mergulhar por completo em um mundo vivo, deixe-se levar pela curiosidade para descobrir os mistérios de cada canto... \nAté que você se reúna com os parentes de sangue separados, testemunhe a precipitação de tudo no final. \n〓Mundo aberto, Livre Exploração〓 "Genshin Impact" é um jogo de aventura de mundo aberto, onde desde o primeiro momento em que você entra em "Teyvat", sempre haverá um novo cenário. Ao ver fadas errantes e mecanismos estranhos, o que será que lhe aguarda? Armadilhas ou surpresas? 	〓Interações Elementais, Batalhas estratégicas〓 Nesta terra onde os elementos convergem, o mundo é composto por sete elementos: Anemo, Electro, Hydro, Pyro, Cryo, Dendro e Geo. Personagens com "Visão" podem guiar o poder dos elementos para a batalha e exploração. Quando Hydro encontra Pyro, ocorre a "Vaporização", Pyro e Electro causam "Sobrecarga", e quando Electro encontra Hydro, ocorre "Eletricamente Carregado"... Para diferentes inimigos, usar habilidades para ativar os efeitos do elemento de restrição é a chave para a vitória. 〓Música Artística, Apresentação de Qualidade〓 \nEm "Genshin Impact", as cenas são renderizadas em tempo real e os movimentos dos personagens são ajustados por meio de captura de movimento detalhados, mostrando efeitos de performance de alta qualidade. Com o dia e a noite de 24 horas, o clima e a música também mudam dinamicamente. Não importa onde você esteja, você sempre poderá ouvir as apresentações regionais características das melhores orquestras sinfônicas do mundo: Orquestra Filarmônica de Londres e a Orquestra Sinfônica de Xangai. \n 〓Embarquem nesta aventura juntos com seus parceiros〓 \n Na jornada de aventura, você também pode encontrar parceiros com habilidades únicas. Você pode explorar a melhor partida de equipe e usar os materiais coletados durante a jornada para fortalecer seus personagens. No final, os monstros e segredos no continente serão conquistados por você. O Pico de Jueyun, parece estar à sua frente, mas seu parente consanguíneo separado ainda não foi encontrado, você consegue resistir?... Vamos, Viajante, a verdadeira aventura apenas começou. \nEste jogo oferece a possibilidade de fazer compras opcionais dentro do jogo, usando um tipo de moeda virtual para obter itens virtuais de forma aleatória dentro do jogo.',
+		"price": "0,00",
+		"platform": "PS4, PS5",
+		"launch": "27/04/2021",
+		"distributor": "COGNOSPHERE PTE. LTD.",
+		"gender": "Ação, Aventura, RPG",
+		"details": "Jogo disponível para: somente PS4 \nÉ preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). \nSoftware sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). \nVocê pode baixar esse conteúdo e reproduzi-lo no console PS5 principal associado à sua conta (pela configuração “Compartilhamento do console e Jogo offline”) e em outros consoles PS5 ao fazer login com essa conta.",
+
+	},
+	{
+		"id": "5",
+		"nameGame": "Lies of P",
+		"potho": "https://image.api.playstation.com/pr/bam-art/162/102/be34b511-4d4e-4cc7-a48c-55d112c40d56.png?w=440&thumb=false",
+		"description": "A Edição Padrão de Lies of P contém \n- Lies of P para PS4™ e PS5® \nEste jogo é um RPG de ação baseado num antigo conto de fadas reinterpretado para ser perverso e sinistro. \n\nLute em batalhas ferozes e elaboradas contra títeres loucos e inimigos inesperados com combinações de armas e Braços Legionários por toda a cidade de Krat, que serve de ambiente do jogo. \n\nFora da batalha, você aprenderá a mentir e a lidar com as emoções para se tornar humano à medida que cresce e conhece uma variedade de indivíduos. \n\nDescubra o seu destino ao final de sua longa jornada para se transformar do boneco de Geppetto num ser humano. \n\nOs clientes com este produto podem ter a versão digital PS4™ e a versão digital PS5® do jogo.",
+		"price": "299,90",
+		"platform": "PS4, PS5",
+		"launch": "19/9/2023",
+		"distributor": "NEOWIZ",
+		"gender": "Ação, RPG",
+		"details": "Para jogar esse jogo no PS5, talvez seja preciso atualizar seu sistema com o software do sistema mais recente. É possível jogar esse jogo no PS5, mas  alguns recursos disponíveis no PS4 podem estar ausentes. Consulte PlayStation.com/bc para obter mais detalhes. \n\nÉ preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). \n\nSoftware sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). \n\nVocê pode baixar esse conteúdo e reproduzi-lo no console PS5 principal associado à sua conta (pela configuração “Compartilhamento do console e Jogo offline”) e em outros consoles PS5 ao fazer login com essa conta.",
+
+	},
+	{
+		"id": "6",
+		"nameGame": "The Crew™ Motorfest - Pacote Cross-Gen",
+		"potho": "https://image.api.playstation.com/pr/bam-art/163/629/897c0279-829d-4c26-b5c3-f54087b9da62.jpg?w=440&thumb=false",
+		"description": "Este produto permite-te transferir a versão digital PS4® e a versão digital PS5® deste jogo. \n\nDamos-te as boas-vindas ao Motorfest! Este festival que dura todo o ano irá permitir-te desfrutar das melhores experiências que a cultura automóvel tem para oferecer. \n\nEXPLORA UM MUNDO HAVAIANO ABERTO E VIBRANTE \n\nO The Crew Motorfest instalou-se num dos lugares mais deslumbrantes da Terra: a ilha de O’ahu, no Havai. Participa em corridas de rua de alta velocidade na movimentada cidade de Honolulu, põe à prova as tuas habilidades de off-road nas encostas de cinza de um vulcão, ou domina a curva perfeita nas pistas. \n\nCELEBRA TODAS AS FACETAS DA CULTURA AUTOMÓVEL \n\nDesfruta de uma variedade de atividades de condução emocionantes e escolhe como te queres divertir com os teus carros! Descobre as listas de música e mergulha em campanhas temáticas que te farão imergir nos universos mais excitantes da cultura automóvel, que incluem musculados americanos, corridas de rua ao estilo japonês e máquinas lendárias do passado! \n\nCOLECIONA OS CARROS MAIS LENDÁRIOS \n\nCompete em corridas intensas, exibe o teu próprio estilo, coleciona os carros mais emblemáticos e muito mais! Domina todos os desafios de condução e enche a tua coleção com os veículos mais lendários alguma vez criados.",
+		"price": "329,90",
+		"platform": "PS4, PS5",
+		"launch": "13/9/2023",
+		"distributor": "Ubisoft Entertainment",
+		"gender": "Direção/Corrida",
+		"details": "Para jogar esse jogo no PS5, talvez seja preciso atualizar seu sistema com o software do sistema mais recente. É possível jogar esse jogo no PS5, mas  alguns recursos disponíveis no PS4 podem estar ausentes. Consulte PlayStation.com/bc para obter mais detalhes. \n\nÉ preciso ter uma conta para usar os recursos online, que estão sujeitos aos termos de serviço e à política de privacidade aplicável (playstationnetwork.com/terms-of-service e playstationnetwork.com/privacy-policy). \n\nSoftware sujeito à licença e à garantia limitada (us.playstation.com/softwarelicense/br). \n\nVocê pode baixar esse conteúdo e reproduzi-lo no console PS5 principal associado à sua conta (pela configuração “Compartilhamento do console e Jogo offline”) e em outros consoles PS5 ao fazer login com essa conta.",
+
+	}
+]

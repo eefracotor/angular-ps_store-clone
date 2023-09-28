@@ -1,0 +1,19 @@
+.game-details__container {
+	width: 100%;
+	min-height: 80vh;
+	/* background-color: antiquewhite; */
+	margin: auto;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	/* flex-direction: column; */
+	flex-wrap: wrap;
+}
+
+.game-details__container .game-details__img {
+	width: 550px;
+}
+
+.game-details__container .game-details__img img {
+	width: 100%;
+}
